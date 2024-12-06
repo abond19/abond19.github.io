@@ -32,6 +32,7 @@ on:
     branches:
       - master
       - main
+      - gh_pages
     paths:
       - "assets/**"
       - "**.bib"
