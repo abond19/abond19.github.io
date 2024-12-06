@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with math
-date: 2015-10-20 11:12:00-0400
-description: an example of a blog post with some math
-tags: formatting math
-categories: sample-posts
+title: Preparing for de Rahm Cohomology (Calculus and Linear Algebra)
+date: 2024-12-06
+description: Reviewing the multivariable calculus and linear algebra prerequisites needed for de Rahm cohomology.
+tags: mathematics
+categories: 
 related_posts: false
 ---
 
