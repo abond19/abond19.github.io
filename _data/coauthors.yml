@@ -1,34 +1,22 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"erdem":
+  - firstname: ["Aykut", "A."]
+    url: http://aykuterdem.github.io
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+  - firstname: ["Erkut", "E."]
+    url: https://web.cs.hacettepe.edu.tr/~erkut/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"wang":
+  - firstname: ["Jui-hsien", "Jui"]
+    url: http://juiwang.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"ceylan":
+  - firstname: ["Duygu", "D."]
+    url: https://www.duygu-ceylan.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"birdal":
+  - firstname: ["Tolga"]
+    url: https://tolgabirdal.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"dogan":
+  - firstname: ["Zafer", "Z."]
+    url: https://mysite.ku.edu.tr/zdogan/

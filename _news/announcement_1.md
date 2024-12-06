@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-06 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will be presenting my work "Exploring the Precise Dynamics of Single-Layer GAN Models: Leveraging Multi-Feature Discriminators for High-Dimensional Subspace Learning" at NeurIPS 2024 in Vancouver, Canada next week.
