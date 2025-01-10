@@ -75,6 +75,13 @@
   ],
   "publications": [
     {
+      "name": "GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-01",
+      "url": "https://arxiv.org/pdf/2501.04782",
+      "summary": "Efficient neural representations for dynamic video scenes are critical for applications ranging from video compression to interactive simulations. Yet, existing methods often face challenges related to high memory usage, lengthy training times, and temporal consistency. To address these issues, we introduce a novel neural video representation that combines 3D Gaussian splatting with continuous camera motion modeling. By leveraging Neural ODEs, our approach learns smooth camera trajectories while maintaining an explicit 3D scene representation through Gaussians. Additionally, we introduce a spatiotemporal hierarchical learning strategy, progressively refining spatial and temporal features to enhance reconstruction quality and accelerate convergence. This memory-efficient approach achieves high-quality rendering at impressive speeds. Experimental results show that our hierarchical learning, combined with robust camera motion modeling, captures complex dynamic scenes with strong temporal consistency, achieving state-of-the-art performance across diverse video datasets in both high- and low-motion scenarios."
+    },
+    {
       "name": "Exploring the Precise Dynamics of Single-Layer GAN Models: Leveraging Multi-Feature Discriminators for High-Dimensional Subspace Learning",
       "publisher": "NeurIPS 2024",
       "releaseDate": "2024-11",
