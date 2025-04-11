@@ -125,7 +125,7 @@
       "icon": ""
     }
   ],
-  "Expertise": [
+  "expertise": [
     {
       "name": "Deep Learning",
       "icon": "fa-solid fa-tag",
