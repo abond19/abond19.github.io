@@ -125,7 +125,7 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "Expertise": [
     {
       "name": "Deep Learning",
       "icon": "fa-solid fa-tag",
@@ -146,8 +146,12 @@
         "Measure Theory",
         "Propagation of Chaos",
         "Convergence of Probability Measures",
-        "Algebraic Topology",
-        "Differential Geometry"
+        "Stochastic Processes",
+        "Stochastic Differential Equations",
+        "Topology and Differential Geometry",
+        "Functional Analysis",
+        "Operator Theory",
+        "Abstract Algebra"
       ]
     }
   ],
