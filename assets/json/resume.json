@@ -3,9 +3,9 @@
     "name": "Andrew Bond",
     "label": "PhD Student",
     "image": "",
-    "email": "abond19@ku.edu.tr",
+    "email": "andrew.bond@epfl.ch",
     "url": "https://abond19.github.io",
-    "summary": "I am a PhD student in the Department of Computer Science and Engineering at Koc University. My research interests include deep generative models for videos, video representation learning, and mean-field analysis of machine learning algorithms."
+    "summary": "I am a new PhD student in the EDIC department at EPFL."
   },
   "work": [
     {
@@ -29,8 +29,8 @@
       "area": "Computer Science and Engineering",
       "studyType": "PhD",
       "startDate": "2023",
-      "endDate": "2028",
-      "courses": ["Nonconvex Optimization for Machine Learning", "Measure Theory", "Cohomology on Manifolds", "Digital Image and Video Processing"]
+      "endDate": "2026",
+      "GPA": 3.73
     },
     {
       "institution": "Koç University",
@@ -40,18 +40,17 @@
       "studyType": "Bachelor",
       "startDate": "2019",
       "endDate": "2023",
-      "courses": [
-        "Deep Unsupervised Learning",
-        "Natural Language Processing",
-        "Computational Imaging",
-        "Intelligent User Interfaces",
-        "Real Analysis",
-        "Topology"
-      ],
       "GPA": 3.55
     }
   ],
   "awards": [
+    {
+      "title": "Academic Excellence Award",
+      "date": "2026-06",
+      "awarder": "Koç University Graduate School of Sciences and Engineering",
+      "url": "https://gsse.ku.edu.tr/en/",
+      "summary": "Awarded to the top master's student in the department, both for academics and research."
+    },
     {
       "title": "Outstanding TA Award",
       "date": "2024-06",
@@ -75,6 +74,20 @@
     }
   ],
   "publications": [
+    {
+      "name": "Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces",
+      "publisher": "ArXiv",
+      "releaseDate": "2026-04",
+      "url": "https://arxiv.org/abs/2604.28122",
+      "summary": "Modern visual world modeling systems increasingly rely on high-capacity architectures and large-scale data to produce plausible motion, yet they often fail to preserve underlying 3D geometry or physically consistent camera dynamics. A key limitation lies not only in model capacity, but in the latent representations used to encode geometric structure. We propose S2VAE, a geometry-first latent learning framework that focuses on compressing and representing the latent 3D state of a scene, including camera motion, depth, and point-level structure, rather than modeling appearance alone. Building on representations from a Visual Geometry Grounded Transformer (VGGT), we introduce a novel type of variational autoencoder using a product of Power Spherical latent distributions, explicitly enforcing hyperspherical structure in the bottleneck to preserve directional and geometric semantics under strong compression. Across depth estimation, camera pose recovery, and point cloud reconstruction, we show that geometry-aligned hyperspherical latents consistently outperform conventional Gaussian bottlenecks, particularly in high-compression regimes. Our results highlight latent geometry as a first-class design choice for physically grounded visual and world models."
+    },
+    {
+      "name": "Effective Covariance Dynamics in Solvable High-Dimensional GANs",
+      "publisher": "ArXiv",
+      "releaseDate": "2026-06",
+      "url": "https://arxiv.org/abs/2606.27246",
+      "summary": "We study a solvable high-dimensional model of generative adversarial network (GAN) training in which a linear generator learns a low-dimensional subspace from data with structured latent covariance. Prior solvable GAN analyses assume unconditional signals with diagonal latent covariance; we extend the multi-feature discriminator setting to class-dependent, correlated, and non-zero-mean latent structure. For the quadratic energy discriminator, all such heterogeneity enters the dynamics through a probability-weighted effective second moment. We prove that the stochastic microscopic training process converges, in the high-dimensional limit, to deterministic ordinary differential equations governed by this effective covariance. In the matched-covariance specialization, the stability analysis yields a mode-wise solvable interval determined by the learning rates and noise level: learning begins when the leading effective eigenvalue crosses the lower threshold, while full recovery requires all relevant effective modes to remain within the interval. This reveals a signal-boosting mechanism: low-rank correlations can lift weak directions above the learnability threshold, whereas overly strong correlations destabilize recovery. Numerical simulations validate the ODE, phase boundary, and boosting mechanism. Experiments on MNIST, FashionMNIST, and CIFAR-10 further show that informed generator covariance improves alignment with the data-driven reference subspace."
+    },
     {
       "name": "TanDiT: Tangent-Plane Diffusion Transformer for High-Quality 360&deg; Panorama Generation",
       "publisher": "ArXiv",
@@ -123,6 +136,19 @@
         "Gaussian Splatting",
         "Neural ODEs",
         "Mean-Field Analysis"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "CUDA",
+        "Metal",
+        "Julia",
+        "Matlab",
+        "C/C++"
       ]
     }
   ],

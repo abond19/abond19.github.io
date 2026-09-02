@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: /tutorials/
-title: tutorials
+# permalink: /tutorials/
+# title: tutorials
 nav: true
 nav_order: 1
 pagination:
-  enabled: true
+  enabled: false
   collection: posts
   permalink: /page/:num/
   per_page: 5
